@@ -1,0 +1,22 @@
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 50px;
+    align-items: center;
+
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    background-color: gray;
+}
+
+.extra-bold {
+    font-size: 56px;
+    font-weight: 900;
+}
+
+.bold {
+    font-size: 36px;
+    font-weight: 700;
+}
